@@ -1,0 +1,2 @@
+File is open
+We are using print function
