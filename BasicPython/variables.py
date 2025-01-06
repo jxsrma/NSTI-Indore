@@ -1,0 +1,1 @@
+print("Ram said to shyam, \"hello\"\nHe repied ok\nHiii\nhello")
