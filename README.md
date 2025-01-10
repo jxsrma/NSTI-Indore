@@ -1,7 +1,7 @@
 ### Repository: **Python Practice - NSTI(W) Indore**
 
 #### Overview
-This repository contains all the Python programs we practiced during our Python learning sessions at **NSTI(W) Indore**. It covers a variety of topics and concepts to help beginners understand the fundamentals of Python programming and beyond.
+This repository contains all the Python programs we practiced during our Python learning sessions at **NSTI(W) Indore**. It covers various topics and concepts to help beginners understand Python programming fundamentals and beyond.
 
 ---
 
@@ -19,7 +19,7 @@ The programs are organized by topics to ensure easy navigation and learning:
 
 3. **Data Structures**  
    - Lists, Tuples, Sets, and Dictionaries  
-   - Basic operations and comprehensions  
+   - Basic operations and comprehension  
 
 4. **Functions**  
    - User-defined functions  
@@ -46,7 +46,7 @@ The programs are organized by topics to ensure easy navigation and learning:
    - Using the `re` module for pattern matching  
 
 10. **Web Sracping**  
-    - Connecting Python with Internet  
+    - Connecting Python with the Internet  
 
 ---
 
@@ -54,7 +54,7 @@ The programs are organized by topics to ensure easy navigation and learning:
 1. **Clone the Repository**:  
    ```bash
    git clone https://github.com/jxsrma/NSTI-Indore.git
-   cd python-practice-nsti
+   cd NSTI-Indore
    ```
 
 2. **Navigate Through Topics**:  
