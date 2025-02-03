@@ -2,7 +2,7 @@
 
 import re
 
-mobilePattern = r'^(\+91)?-?[\d]{3}-[\d]{3}-[\d]{4}$'
+mobilePattern = r'^(\+91-)?[\d]{3}-[\d]{3}-[\d]{4}$'
 
 strn = '+91-123-544-4533'
 match = re.match(mobilePattern, strn)
